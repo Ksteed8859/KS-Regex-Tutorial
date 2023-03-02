@@ -1,4 +1,4 @@
-# KS Regular Expression (Regex) Tutorial
+# KS Regular Expression Tutorial
 
 Regular expressions, also known as regex, are a series of letters, numbers, or special characters that define a search pattern. By adding different characters to your regex, you can tell Javascript what sort of characters to look for in a string. This is useful because as it is Javascript, while containing a way to check whether a string contains a certain letter or phrase, they are limited to direct matches. Using regular expressions simply tell your coding language what to look for in a string using one expression, as opposed to coding out "if" statements for each case.
 
